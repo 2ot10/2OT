@@ -19,6 +19,6 @@ python wifi-cracker.py
 This tool is provided for educational and research purposes only. We do not take any responsibility for any illegal or unethical use of this tool. Using this tool to hack networks or gain unauthorized access to any system is illegal and violates local and international laws.
 
 Therefore, any illegal use is solely the responsibility of the user. We strongly encourage everyone to use this tool responsibly, legally, and ethically.
-<img src="https://drive.google.com/uc?export=view&id=1qDc5Ck0b4p4TIyfNtu52NVGlvDAgWk5X" width="350" />
+<img src="2ot10-patch-1" />
 
 
