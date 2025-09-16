@@ -10,8 +10,7 @@ It scans available networks and attempts to connect using each password from you
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/2ot10/2OT.git
-cd 2OT
+git clone https://github.com/2ot10/2OT.git![boot](https://github.com/user-attachments/assets/a472bb2d-3c8d-447f-a405-8865665a4524)cd 2OT
 pip install -r requirements.txt
 python wifi-cracker.py
 ⚠️ Important Notice
